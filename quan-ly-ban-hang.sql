@@ -1,4 +1,4 @@
-﻿--bai tap 1--
+﻿--	QUAN LY BAN HÀNG --
 create database QLBH 
 use QLBH 
 create table KHACHHANG 
